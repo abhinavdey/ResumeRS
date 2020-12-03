@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./info.xsl"?> 
+<catalog>
+  <faculty>
+    <title>Mrs.T.S.Shiny Angel</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>	S.Anuja</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>	R.Renuka Devi</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>	Ms.B.Jothi</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>Dr.K.Vijayakumar</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>Dr.N.Poornima</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+
+  </faculty>
+  <faculty>
+    <title>	Mrs.S.Aruna</title>
+    <College>SRM</College>
+    <city>chennai</city>
+    <country>India</country>
+    
+  </faculty>
+ 
+ 
+</catalog>
